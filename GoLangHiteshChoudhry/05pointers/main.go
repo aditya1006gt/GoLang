@@ -17,4 +17,6 @@ func main() {
 
 	*ptr = *ptr + 230
 	fmt.Println("Value of a after incrementing using pointer is: ", a)
+
+	fmt.Println("Value of a is: ", a, " and value of *ptr of a is: ", *ptr)
 }
