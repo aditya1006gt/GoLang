@@ -1,3 +1,3 @@
-module github.com/aditya1006gt/slices
+module slices
 
 go 1.26.1
